@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ChatUIDemo</string>
+
+    <!-- ComeChat Pro -->
+    <string name="comeChat_app_Id" translatable="false"></string>
+    <string name="comeChat_region" translatable="false"></string>
+    <string name="comechat_auth_key" translatable="false"></string>
+</resources>

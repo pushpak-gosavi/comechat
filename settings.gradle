@@ -1,0 +1,3 @@
+rootProject.name = "ChatUIDemo"
+include ':app'
+include ':uikit'
